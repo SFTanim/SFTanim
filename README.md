@@ -4,7 +4,7 @@
 <br>
 <br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/s.f.tanim) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sabid.farhan.tanim.2024) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sabid-farhan-tanim)
 
@@ -14,7 +14,9 @@
 
 # 📊 GitHub Stats:
 
+<div width="1200">
 ![](https://github-readme-stats.vercel.app/api?username=SFTanim&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+</div>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SFTanim&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SFTanim&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
