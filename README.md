@@ -1,1 +1,1 @@
-<img src="https://i.ibb.co/f1PJ3CH/sabid-farhan-tanim-github-banner.png" alt="sabid-farhan-tanim-github-banner" border="0">
+<img width="1200" src="https://i.ibb.co/7tbDM2L/github-header-image-5.png" alt="github-header-image-5" border="0">
