@@ -14,9 +14,9 @@
 
 # 📊 GitHub Stats:
 
-<div width="1200">
+
 ![](https://github-readme-stats.vercel.app/api?username=SFTanim&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-</div>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SFTanim&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SFTanim&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -24,4 +24,3 @@
 
 [![](https://visitcount.itsvg.in/api?id=SFTanim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
