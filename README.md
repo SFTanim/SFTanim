@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <h1 align="center">Hi there, I’m Rakib 🚀 Exploring the world of code.</h1>
+  <h1 align="center">Hi there, I’m Sabid 🚀 Exploring the world of code.</h1>
 </p>
 <p align="center">I'm a Front-End Developer with a passion for the MERN stack. I love crafting beautiful and efficient websites that make every interaction smooth and enjoyable. My aim is to combine creativity with functionality, creating experiences that not only impress users but also resonate with clients.
 </p>
