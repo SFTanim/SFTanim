@@ -48,8 +48,8 @@
 <p align = "center">
  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SFTanim&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
-<br
 
+<br>
 
 <h1 align="center">
   💪✨ What Fuels My Drive 🚀⚡
@@ -58,16 +58,16 @@
 <h2 align="center">
 
 > <p>Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing or learning to do.</p>
+
 *– Pelé*
+
 </h2>
-
-<br>
-
----
 
 <br>
 <br>
 
 <h3 align="center">
- A Glimpse Into My Code
+ 🔍 Let’s Take a Glimpse of My Code Below 👇
 </h3>
+
+---
