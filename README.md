@@ -11,16 +11,6 @@
 <br>
 
 <h1 align="center">
-  🌐 Socials:
-</h1>
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/s.f.tanim) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sabid.farhan.tanim.2024) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabid-farhan-tanim)
-
-</div>
-<br>
-
-<h1 align="center">
   💻 Language & Tools
 </h1>
 
@@ -38,6 +28,16 @@
 <br>
 
 <h1 align="center">
+  🌐 Socials:
+</h1>
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/s.f.tanim) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sabid.farhan.tanim.2024) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabid-farhan-tanim)
+
+</div>
+<br>
+
+<h1 align="center">
   ⚙️ My Github Stats
 </h1>
 <br>
@@ -48,5 +48,26 @@
 <p align = "center">
  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SFTanim&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
+<br
+
+
+<h1 align="center">
+  💪✨ What Fuels My Drive 🚀⚡
+</h1>
+
+<h2 align="center">
+
+> <p>Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing or learning to do.</p>
+*– Pelé*
+</h2>
+
+<br>
 
 ---
+
+<br>
+<br>
+
+<h3 align="center">
+ A Glimpse Into My Code
+</h3>
